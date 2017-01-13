@@ -33,6 +33,6 @@ Have a look at the code coverage by executing `npm run coverage`. Head to the `c
 ### 5 ###
 
 Count your current Lines of Code (LOC) by executing `npm run countLOC:details` and look at the file
-
+ 
 ### Solutions ###
 Each of the recent commits introduced new bugs to the code. By going through these commits, you'll be able to see what has changed and what is the correct solution, except for task #3.
